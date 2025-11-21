@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 Minesweeper Tkinter GUI
 Classic Windows Minesweeper-style interface for Verilog implementation.
